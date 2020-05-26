@@ -1,0 +1,26 @@
+_repo: An-Irish-Crazy-Quilt-Smiles-and-tears-woven-into-song-and-story_62180
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forrester, Arthur M.
+    birthdate: 1850
+    deathdate: 1895
+    gutenberg_agent_id: '51809'
+    url: http://www.gutenberg.org/2009/agents/51809
+description: ''
+gutenberg_issued: '2020-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62180'
+  lccn: '27010469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Ireland -- Fiction'
+- GITenberg
+title: 'An Irish Crazy-Quilt: Smiles and tears, woven into song and story'
+url: http://www.gutenberg.org/ebooks/62180
